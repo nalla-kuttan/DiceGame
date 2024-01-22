@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: #4b1d1d;
+  background-color: #66603D;
 }
 
 h1 {
@@ -19,12 +19,12 @@ h1 {
   font-family: Copperplate, Papyrus, fantasy;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #b9cc4e;
+  color: #FFD900;
 }
 
 p {
   font-size: 2rem;
-  color: #b9cc4e;
+  color: #CCB429;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -34,7 +34,7 @@ img {
 
 footer {
   margin-top: 5%;
-  color: #EEEEEE;
+  color: #CCB429;
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
@@ -43,5 +43,5 @@ h5{
   margin: 30px;
   font-family: Copperplate, Papyrus, fantasy;
   font-size: 1rem;
-  color: #04f0fcb7;
+  color: #998B3D;
 }
