@@ -1,0 +1,47 @@
+.container {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  width: 50%;
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #4b1d1d;
+}
+
+h1 {
+  margin: 30px;
+  font-family: Copperplate, Papyrus, fantasy;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #b9cc4e;
+}
+
+p {
+  font-size: 2rem;
+  color: #b9cc4e;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 40%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+h5{
+  margin: 30px;
+  font-family: Copperplate, Papyrus, fantasy;
+  font-size: 1rem;
+  color: #04f0fcb7;
+}
